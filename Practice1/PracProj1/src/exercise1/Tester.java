@@ -1,4 +1,4 @@
-package exercise1;
+package Practice1.PracProj1.src.exercise1;
 import java.lang.Math;
 public class Tester {
     public static void main(String Args[]){
